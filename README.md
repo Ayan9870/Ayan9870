@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on GitHub, LinkedIn, and Seek.
 - 📫 How to reach me: ayanhashmi205@yahoo.com
 - 😄 Pronouns: He, Him
-- ⚡ Fun fact: I support Man u.
 
 <!---
 Ayan9870/Ayan9870 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
