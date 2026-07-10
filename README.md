@@ -13,7 +13,13 @@
 - Machine Learning & AI 🤖
 - Backend Development 🌐
 - Big Data Processing ⚡
-    
+
+<br clear="right" />
+
+<a href="https://github.com/stats-organization/github-stats-extended" title="Go to Source">
+  <img align="right" width="420" height="auto" src="https://github-stats-extended.vercel.app/api?username=ayan9870&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true&count_private=true&hide=prs_merged,prs_merged_percentage&cache_seconds=14400&v=3" />
+</a>
+
 🛠**Tech Stack**
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
